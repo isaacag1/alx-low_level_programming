@@ -1,10 +1,16 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-**
-*main - new printing task
-*Return: 0
- */ 
+
+/**
+ *
+ *  main - print a c program using printf
+ *
+ * Return: 0 if success
+ *
+ */
+
+
 int main(void)
 {
 	int n;
@@ -12,10 +18,10 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0) 
-    printf(%d is positive\n", n);
-           else if (n < 0)
-           printf(%d is negative\n", n)
-                  else
-                  printf(%d is zero\n", n)
+        printf(%d is positive\n", n);
+        else if (n < 0)
+        printf(%d is negative\n", n)
+        else
+        printf(%d is zero\n", n)
 	return (0);
 }
