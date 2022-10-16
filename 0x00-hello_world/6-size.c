@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * Decription - task 6
+ * Main - Entry point
+ *
+ * Decription - 'Size is not grandeur, and territory does not make a nation'
  *
  * Return: Always 0
  */
