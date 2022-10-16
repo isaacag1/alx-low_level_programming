@@ -1,10 +1,16 @@
 #include <stdio.h>
 /**
+<<<<<<< HEAD
  * Main - Entry point
  *
  * Decription - 'Size is not grandeur, and territory does not make a nation'
  *
  * Return: Always 0 (Success)
+=======
+ * main - size is not
+ *
+ * Return: 0 if success
+>>>>>>> 278e97654a11aac89097de7053f172e3393a9ba3
  */
 
 int main(void)
