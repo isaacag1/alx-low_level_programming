@@ -1,18 +1,19 @@
 #include <stdio.h>
-#include <unistd.h>
+
 /**
  * main - prints alpha in lower case
  * Return: Always 0
  *
  */
+
 int main(void)
 {
-	int ch;
+	int t;
 	
-	for (ch = 'a'; ch <= 'z'; ch++)
+	for (t = 'a'; t <= 'z'; t++)
 	{
-	     putchar(ch);
+	     putchar(t);
 	}
 	putchar('\n');
-return (0);
+        return (0);
 }
