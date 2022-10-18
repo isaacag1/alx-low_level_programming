@@ -1,7 +1,7 @@
-/**
- * main - print _putchar
- * is written by Ik
- * Return: 0
+#include "main.h"
+
+/** main - prints putchar
+ * Return: always 0
  */
 
 int main(void)
