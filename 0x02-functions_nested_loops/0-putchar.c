@@ -1,10 +1,9 @@
-#include "main.h"
-
 /**
  * main - print _putchar
- * is written by IK
+ * is written by Ik
  * Return: 0
  */
+
 int main(void)
 {
 _putchar('_');
