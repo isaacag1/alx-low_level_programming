@@ -1,8 +1,8 @@
 #include "main."
 
 /**
- * print-sign - prints the sign of a number
- * @c: the number of the sign to be printed
+ * print_sign - prints the sign of a number
+ * @n: the number of the sign to be printed
  * Return: 1 if number is greater than zero
  * 0 of number is zero
  * -i if number is less than zero
